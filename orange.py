@@ -1,7 +1,7 @@
 import forallpeople
 import numpy as np
 
-print('I like oranges')
+print('I like oranges and apples')
 
 
 
